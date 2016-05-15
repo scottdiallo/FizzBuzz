@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    height: 600px;
+    width: 800;
+}
+
+#btn {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 12px;
+    color: white;
+    outline: none;
+    background-color: black
+}
+
+input {
+    font-size: 20px;
+    outline: none;
+    height: 30px;
+}
